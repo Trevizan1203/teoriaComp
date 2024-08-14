@@ -32,18 +32,18 @@ Este projeto é uma implementação em C++ de um verificador de cadeias para uma
 **Entrada:**
 ```
 3
-S A
-A a
-A b
-ab
-ba
+S/aA
+A/bB
+B/c
+abc
+a
 *
 ```
 
 **Saída:**
 ```
-ab: SIM
-ba: NAO
+abc: SIM
+a: NAO
 ```
 
 ## Contribuições
