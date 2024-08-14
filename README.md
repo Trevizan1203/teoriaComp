@@ -1,0 +1,1 @@
+Este projeto é uma implementação em C++ de um verificador de cadeias para uma gramática livre de contexto (GLC). O programa determina se uma string pode ser gerada a partir de uma gramática definida por um conjunto de produções fornecidas.
